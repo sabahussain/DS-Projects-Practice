@@ -1,0 +1,11 @@
+MovieID,Title,Genre,Director,Year,Runtime,Rating,Votes,Revenue
+1,Inception,Sci-Fi,Christopher Nolan,2010,148,8.8,2100000,829
+2,The Dark Knight,Action,Christopher Nolan,2008,152,9.0,2400000,1005
+3,Interstellar,Sci-Fi,Christopher Nolan,2014,169,8.6,1700000,677
+4,Titanic,Romance,James Cameron,1997,195,7.9,1100000,2187
+5,Avatar,Sci-Fi,James Cameron,2009,162,7.8,1200000,2847
+6,The Matrix,Sci-Fi,The Wachowskis,1999,136,8.7,1700000,466
+7,The Godfather,Crime,Francis Ford Coppola,1972,175,9.2,1800000,246
+8,Pulp Fiction,Crime,Quentin Tarantino,1994,154,8.9,1900000,214
+9,Forrest Gump,Drama,Robert Zemeckis,1994,142,8.8,1900000,678
+10,The Lion King,Animation,Roger Allers,1994,88,8.5,1100000,968
